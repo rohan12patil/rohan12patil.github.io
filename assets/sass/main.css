@@ -2301,6 +2301,10 @@ button:active,
   }
 }
 
+.profile-img {
+  display: none;
+}
+
 /* Mobile */
 @media screen and (max-width: 736px) {
   /* Basic */
@@ -2340,6 +2344,11 @@ button:active,
   }
   #footer .copyright li:first-child {
     margin-top: 0;
+  }
+  .profile-img {
+    display: block;
+    width: 45%;
+    margin: 0 auto;
   }
 }
 

@@ -1073,6 +1073,12 @@
 					}
 				}
 			}
+
+			
+	}
+
+	.profile-img{
+		display: none;
 	}
 
 /* Mobile */
@@ -1138,6 +1144,12 @@
 						}
 					}
 				}
+			}
+
+			.profile-img{
+				display: block;
+				width: 45%;
+				margin: 0 auto;
 			}
 
 	}
