@@ -1170,3 +1170,17 @@
 	.margin-top-20{
 		margin-top: 20px;
 	}
+
+
+	.flex-container{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		
+		.poster{
+			img{
+				width:100%;
+				max-width: 600px;
+			}
+		}
+	}
