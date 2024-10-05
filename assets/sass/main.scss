@@ -648,16 +648,15 @@ button,
 .item {
   box-shadow: 3px 3px 3px 3px #868484;
   margin-bottom: 40px;
+  border-radius: 10px;
 
   header {
-    background: #fff;
+    background: #c4e9e9;
     margin: 0;
     padding: 1em 0 1em 0;
-    font-size: 0.8em;
-
-    h3 {
-      font-size: 1em;
-    }
+    font-size: 1rem;
+    font-weight: 450;
+    border-radius: 10px;
   }
 }
 
